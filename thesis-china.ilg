@@ -1,0 +1,10 @@
+This is makeindex, version 2.15 [TeX Live 2021] (kpathsea + Thai support).
+Scanning style file /usr/local/texlive/2021/texmf-dist/makeindex/hithesis/hithesis.ist.....
+** Input style error (file = /usr/local/texlive/2021/texmf-dist/makeindex/hithesis/hithesis.ist, line = 31):
+   -- Unknown specifier \endinput.
+done (5 attributes redefined, 1 ignored).
+Scanning input file thesis-china.idx....done (6 entries accepted, 0 rejected).
+Sorting entries....done (19 comparisons).
+Generating output file thesis-china.ind....done (25 lines written, 0 warnings).
+Output written in thesis-china.ind.
+Transcript written in thesis-china.ilg.

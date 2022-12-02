@@ -1,0 +1,29 @@
+This is makeindex, version 2.15 [TeX Live 2021] (kpathsea + Thai support).
+Scanning input file thesis.idx...
+!! Input index error (file = thesis.idx, line = 1):
+   -- Unknown index keyword \indexentry[china].
+!! Input index error (file = thesis.idx, line = 2):
+   -- Unknown index keyword \indexentry[english].
+!! Input index error (file = thesis.idx, line = 3):
+   -- Unknown index keyword \indexentry[english].
+!! Input index error (file = thesis.idx, line = 4):
+   -- Unknown index keyword \indexentry[china].
+!! Input index error (file = thesis.idx, line = 5):
+   -- Unknown index keyword \indexentry[english].
+!! Input index error (file = thesis.idx, line = 6):
+   -- Unknown index keyword \indexentry[china].
+!! Input index error (file = thesis.idx, line = 7):
+   -- Unknown index keyword \indexentry[english].
+!! Input index error (file = thesis.idx, line = 8):
+   -- Unknown index keyword \indexentry[china].
+!! Input index error (file = thesis.idx, line = 9):
+   -- Unknown index keyword \indexentry[english].
+!! Input index error (file = thesis.idx, line = 10):
+   -- Unknown index keyword \indexentry[china].
+!! Input index error (file = thesis.idx, line = 11):
+   -- Unknown index keyword \indexentry[english].
+!! Input index error (file = thesis.idx, line = 12):
+   -- Unknown index keyword \indexentry[china].
+done (0 entries accepted, 12 rejected).
+Nothing written in thesis.ind.
+Transcript written in thesis.ilg.
